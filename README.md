@@ -6,7 +6,7 @@
 * VueJs
 * Vuetify
 * Axios
-* Api Github 
+* API Github 
 
 ----
 ## observação

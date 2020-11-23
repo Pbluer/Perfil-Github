@@ -1,24 +1,13 @@
-# profile
+# Perfil Github
+![interface image](https://github.com/Pbluer/Perfil-Github/src/assets/captura.png)
 
-## Project setup
-```
-npm install
-```
+----
+### Tecnologias
+* VueJs
+* Vuetify
+* Axios
+* Api Github 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+----
+## observação
+* Projeto criado com o intuito de praticar

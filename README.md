@@ -7,7 +7,3 @@
 * Vuetify
 * Axios
 * API Github 
-
-----
-## observação
-* Projeto criado com o intuito de praticar
